@@ -46,7 +46,7 @@ app.listen(port);
 
 
 /*var test = new Item({
-    age:15,
+    age:13,
     name:"sadan"
 });
 test.save(function (err, user) {
